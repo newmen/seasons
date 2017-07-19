@@ -1,6 +1,6 @@
 # Generator of Seasons images
 
-This project was wrote for course of "Computer Graphics" which I've listened in MUCTR. Lectures were read by Solomonova N.D. Under running the program graws images with random scenery of some year time. The drawing algorithm uses the Golden Section and the Fibonacci number series.
+This project was written for course of "Computer Graphics" which I've listened in MUCTR. Solomonova N.D had read these lectures. Under running the program draws images with a random scenery of some year time. The drawing algorithm uses the Golden Section and the Fibonacci number series.
 
 ===
 
@@ -28,4 +28,4 @@ This project was wrote for course of "Computer Graphics" which I've listened in 
 
 ===
 
-The program is writen in the ancient Turbo C++ 3.0.
+The program is written in the ancient Turbo C++ 3.0.
